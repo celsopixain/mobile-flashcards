@@ -27,7 +27,7 @@ Utilize o promp de comando e siga as instruções:
 2. Navegue para o diretório - `cd mobile-flashcards`
 3. Execute o comando `npm install` ou `yarn install` para instalar as dependências.
 4. Ainda nesta pasta execute o comando `expo start` ou `npm start` out `yarn start` para iniciar a aplicação.
-5. Abra o aplicativo Expo em seu dispositivo móvel e faça a leitura do código QR.
+5. Abra o aplicativo Expo em seu dispositivo móvel (Android ou iOS) e faça a leitura do código QR.
 
 ## Pré-requisitos
 Para utilizar esta aplicação é necessário ter instalado o [Node](https://nodejs.org/en/) e [NPM](https://www.npmjs.com/) e [Expo](https://expo.io/).
