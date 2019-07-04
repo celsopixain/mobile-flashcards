@@ -11,8 +11,8 @@ let decks = {
                 answer: 'React é uma biblioteca de javascript escrita pelos desenvolvedores do Facebook para criar componentes reutilizáveis ​​mais limpos'
             },
             {
-                question: 'What is state in React?',
-                answer: 'State is an object that determines the behavior of a component'
+                question: 'O que é estado em React?',
+                answer: 'Estado é um objeto que determina o comportamento de um componente'
             },
         ]
     },

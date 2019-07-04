@@ -14,8 +14,8 @@ export function clearLocalNotification() {
 
 function createNotification() {
     return {
-      title: 'Hey there!',
-      body: "👋 Get back in here and learn something",
+      title: 'Vamos aprender!',
+      body: "👋 Volte aqui e aprende algo",
       ios: {
         sound: true
       },
