@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Flashcards",
-    "slug": "mobile-flashcards",
+    "name": "UdacityFlashcards",
+    "description": "This project is really great.",
+    "slug": "UdacityFlashcards",
     "privacy": "public",
-    "sdkVersion": "33.0.0",
+    "sdkVersion": "31.0.0",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",

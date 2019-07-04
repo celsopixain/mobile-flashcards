@@ -1,43 +1,22 @@
 {
+  "name": "empty-project-template",
   "main": "node_modules/expo/AppEntry.js",
+  "private": true,
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^33.0.0",
-    "react": "16.8.3",
-    "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
-    "react-native-web": "^0.11.4"
+    "expo": "^31.0.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-navigation": "^2.18.2",
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.1"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.1.1"
-  },
-  "private": true,
-  "name": "mobile-flashcards",
-  "version": "1.0.0",
-  "description": "Projeto Nanodegree flashcards em react-native",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/celsopixain/mobile-flashcards.git"
-  },
-  "keywords": [
-    "udacity",
-    "react-native",
-    "expo",
-    "react-redux",
-    "mobile",
-    "android",
-    "ios"
-  ],
-  "author": "celso ricardo",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/celsopixain/mobile-flashcards/issues"
-  },
-  "homepage": "https://github.com/celsopixain/mobile-flashcards#readme"
+    "babel-preset-expo": "^5.0.0"
+  }
 }
